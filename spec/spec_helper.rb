@@ -1,4 +1,4 @@
 require 'rspec'
 require 'clearance_blowfish/version'
 
-include ClearanceBlowfish
+Dir['spec/support/**/*.rb'].each { |f| require "./#{f}" }
