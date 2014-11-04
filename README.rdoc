@@ -1,8 +1,3 @@
-= clearance_blowfish
-
-* {Homepage}[https://rubygems.org/gems/clearance_blowfish]
-* {Email}[mailto:squarism at gmail.com]
-
 == Description
 
 This gem adds blowfish encryption to the Clearance auth gem.  Blowfish is probably
