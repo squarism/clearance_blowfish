@@ -1,4 +1,5 @@
 require 'openssl'
+require 'base64'
 require 'clearance_blowfish/version'
 require 'active_support/core_ext'
 
